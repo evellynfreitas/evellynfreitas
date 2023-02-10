@@ -1,6 +1,6 @@
 <h2 align=center> Bem vindo ao meu Github </h2> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evellynfreitas&show_icons=true&theme=omni&hide=contribs&hide=prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evellynfreitas&show_icons=true&theme=omni&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evellynfreitas&layout=compact&theme=omni)
 
 
