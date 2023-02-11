@@ -2,10 +2,11 @@
 
 <img align=right src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" height="200px">
   
-  <h4><br>
+  <h4>
       🚀 Meu nome é Evellyn <br>
       🎮 Estudo programação desde 2018 <br>
-      📓 Atualmente curso Sistemas de Informação <br> <br>
+      📓 Atualmente curso Sistemas de Informação <br>
+      🔗 <a href="https://www.linkedin.com/in/evellyn-dornelas-de-freitas-8339b0253/"> LinkedIn </a> | <a href="https://codepen.io/evellynfreitas"> CodePen </a> <br><br>
       Tenho experiência com as linguagens:
   </h4>
   
