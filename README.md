@@ -5,10 +5,10 @@
 
   
   <br>
-  <b style="font-size: 24px">🚀 Meu nome é Evellyn <br>
+  <p style="font-size: 26px">🚀 Meu nome é Evellyn <br>
       📚 Sou aluna de Sistemas de Informação <br>
       🖥 Tenho experiência com as linguagens: <br>
-  </b>
+  </p>
   <br>
   
   <p align="left">
