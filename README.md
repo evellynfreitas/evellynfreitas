@@ -5,7 +5,10 @@
 
   
   <br>
-  🚀- Meu nome é Evellyn, aluna de Sistemas de Informação <br>
+  <h4>🚀 Meu nome é Evellyn <br>
+      🚀 Sou aluna de Sistemas de Informação
+  </h4>
+  <br>
   <br>
   Tenho experiência com as linguagens:
   <br><br>
