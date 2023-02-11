@@ -5,9 +5,9 @@
 
   
   <br>
-  <h2>🚀 Meu nome é Evellyn <br>
+  <h3>🚀 Meu nome é Evellyn <br>
       🚀 Sou aluna de Sistemas de Informação
-  </h2>
+  </h3>
   <br>
   <br>
   Tenho experiência com as linguagens:
