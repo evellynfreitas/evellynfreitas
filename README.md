@@ -2,7 +2,7 @@
 
 <img align=right src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" height="200px">
   
-  <h4>
+  <h4><br>
       🚀 Meu nome é Evellyn <br>
       🎮 Estudo programação desde 2018 <br>
       📓 Atualmente curso Sistemas de Informação <br> <br>
