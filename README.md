@@ -1,14 +1,13 @@
 <h1 align=center> Bem vindo ao meu Github <img src="https://i.pinimg.com/originals/83/0b/53/830b53f8bbd0e9dbcade87da95abdad0.gif" height="30px"> </h1> 
 
 <img align=right src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" height="200px">
-
-
   
   <br>
   <h4>
       🚀 Meu nome é Evellyn <br>
-      📚 Sou aluna de Sistemas de Informação <br>
-      🖥 Tenho experiência com as linguagens: <br>
+      🎮 Estudo programação desde 2018 <br>
+      📓 Atualmente curso Sistemas de Informação <br>
+      🖥 Tenho experiência com as linguagens:
   </h4>
   <br>
   
