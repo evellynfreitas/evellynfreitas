@@ -6,7 +6,7 @@
       🚀 Meu nome é Evellyn <br>
       🎮 Estudo programação desde 2018 <br>
       📓 Atualmente curso Sistemas de Informação <br>
-      🔗 <a href="https://www.linkedin.com/in/evellyn-dornelas-de-freitas-8339b0253/"> LinkedIn </a> | <a href="https://codepen.io/evellynfreitas"> CodePen </a> <br><br>
+      🔗 <a style="color: #DA69AB" href="https://www.linkedin.com/in/evellyn-dornelas-de-freitas-8339b0253/"> LinkedIn </a> | <a style="color: #DA69AB"  href="https://codepen.io/evellynfreitas"> CodePen </a> <br><br>
       Tenho experiência com as linguagens:
   </h4>
   
