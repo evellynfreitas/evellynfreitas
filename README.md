@@ -6,11 +6,9 @@
   
   <br>
   <h4>🚀 Meu nome é Evellyn <br>
-      🚀 Sou aluna de Sistemas de Informação
+      🚀 Sou aluna de Sistemas de Informação<br>
+      Tenho experiência com as linguagens: <br>
   </h4>
-  <br>
-  <br>
-  Tenho experiência com as linguagens:
   <br><br>
   
   <p align="left">
