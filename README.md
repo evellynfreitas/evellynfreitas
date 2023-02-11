@@ -2,11 +2,10 @@
 
 <img align=right src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" height="200px">
   
-  <br>
   <h4>
       🚀 Meu nome é Evellyn <br>
       🎮 Estudo programação desde 2018 <br>
-      📓 Atualmente curso Sistemas de Informação <br>
+      📓 Atualmente curso Sistemas de Informação <br> <br>
       🖥 Tenho experiência com as linguagens:
   </h4>
   <br>
