@@ -5,11 +5,11 @@
 
   
   <br>
-  <h3>🚀 Meu nome é Evellyn <br>
-      🚀 Sou aluna de Sistemas de Informação<br>
-      Tenho experiência com as linguagens: <br>
-  </h3>
-  <br><br>
+  <h4>🚀 Meu nome é Evellyn <br>
+      📚 Sou aluna de Sistemas de Informação <br>
+      🖥 Tenho experiência com as linguagens: <br>
+  </h4>
+  <br>
   
   <p align="left">
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
