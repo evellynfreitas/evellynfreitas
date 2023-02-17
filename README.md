@@ -3,7 +3,7 @@
 <img align=right src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" height="200px">
   
   <h4>
-      🚀 Meu nome é Evellyn <br>
+      🚀 Desenvolvedora de Software <br>
       🎮 Estudo programação desde 2018 <br>
       📓 Atualmente curso Sistemas de Informação <br>
       🔗 <a href="https://www.linkedin.com/in/evellyn-dornelas-de-freitas-8339b0253/"> LinkedIn </a> <br><br>
