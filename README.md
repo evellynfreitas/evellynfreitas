@@ -21,7 +21,7 @@
   
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evellynfreitas&show_icons=true&theme=omni&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evellynfreitas&show_icons=true&theme=omni&hide=prs,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evellynfreitas&layout=compact&theme=omni)
 
 
