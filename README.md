@@ -21,8 +21,5 @@
   
 ##
 
-![Anurag's GitHub stats](https://readmestats.999857.xyz/api?username=evellynfreitas&show_icons=true&theme=omni&hide=prs,contribs)
+![Anurag's GitHub stats](https://readmestats.999857.xyz/api?username=evellynfreitas&show_icons=true&theme=omni&hide=prs)
 ![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=evellynfreitas&layout=compact&theme=omni)
-
-
-
