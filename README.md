@@ -23,7 +23,6 @@
 ##
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynfreitas&layout=donut&theme=omni" />
-</a>
-<a href="">
   <img height=200 align="center" src="https://readmestats.999857.xyz/api?username=evellynfreitas&show_icons=true&theme=omni&hide=prs,contribs" />
 </a>
+
