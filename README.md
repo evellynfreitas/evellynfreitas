@@ -2,19 +2,18 @@
 
 <img align=right src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" height="200px">
   
-  <h2>
+  <h3>
       🚀 Desenvolvedora de Software <br>
       🎮 Técnica em Desenvolvimento de Sistemas<br>
       📓 Cursando Sistemas de Informação <br>
       🔗 <a href="https://www.linkedin.com/in/evellyn-dornelas-de-freitas-8339b0253/"> LinkedIn </a> <br><br>
       Tenho experiência com as linguagens:
-  </h2>
+  </h3>
   
   <p align="left">
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-    <br>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
