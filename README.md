@@ -2,13 +2,13 @@
 
 <img align=right src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" height="200px">
   
-  <h3>
+  <h2>
       🚀 Desenvolvedora de Software <br>
-      🎮 Programando desde 2018 <br>
+      🎮 Técnica em Desenvolvimento de Sistemas<br>
       📓 Cursando Sistemas de Informação <br>
       🔗 <a href="https://www.linkedin.com/in/evellyn-dornelas-de-freitas-8339b0253/"> LinkedIn </a> <br><br>
       Tenho experiência com as linguagens:
-  </h3>
+  </h2>
   
   <p align="left">
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
