@@ -33,4 +33,11 @@
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynfreitas&layout=donut&theme=omni" />
   <img height=170 align="center" src="https://readmestats.999857.xyz/api?username=evellynfreitas&show_icons=true&theme=omni&hide=prs,contribs" />
 </div>
-
+<br>
+ <!-- 
+ <p align="center">
+  <a href="https://github.com/evellynfreitas">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=evellynfreitas&theme=omni&border=FFFFFF&background=0D1117" alt="Evellyn's GitHub streak"/>
+  </a>
+</p>
+  -->
